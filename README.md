@@ -2,7 +2,7 @@
 A text processor which performs certain operations on strings is developed using lex and yacc.
 LEX and Yacc are used to achieve the following tasks.
 This is similar to Calculator, except it is used with text strings.
-Text processor ​: Let op1 and op2 are operands whose values are text (contains alphanumeric characters).
+Text processor : Let op1 and op2 are operands whose values are text (contains alphanumeric characters).
 op1 * op2 is a concatenation of the two operands.
 op1~op2 is true if op1 is a prefix of op2 (Eg: abc ~ abcd has the value true).
 op1@op2 is true if op1 is a suffix of op2
